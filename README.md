@@ -1,7 +1,7 @@
 ![The Complete Guide to Full Stack Ethereum Development
-](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxq0yu3jd7qw35itdxii.jpg)
+](https://miro.medium.com/max/1400/0*lGH4EEnrm9auNQAB.jpg)
 
-This codebase goes along with the tutorial [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
+This codebase goes along with the tutorial [The Complete Guide to Full Stack Ethereum Development](https://kanew.medium.com/the-complete-guide-to-full-stack-ethereum-development-490e5b87b688)
 
 ## Getting started
 
